@@ -89,17 +89,3 @@ The analysis answers the following questions:
 ##  Key Learning Outcomes
 
 Through this project, I practiced applying SQL to a real-world business scenario, including customer analysis, product performance analysis, loyalty-program analysis, joins, aggregations, window functions, and date-based business logic.
-
-##  Project Structure
-
-```text
-anitas-veg-cafe-sql-analysis/
-│
-├── README.md
-├── sql/
-│   └── anitas_veg_cafe_analysis.sql
-│
-└── data/
-    ├── sales.csv
-    ├── menu.csv
-    └── members.csv
