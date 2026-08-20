@@ -1,12 +1,12 @@
 # Anita's Veg Cafe — SQL Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 Anita's Veg Cafe is a SQL-based data analysis project focused on understanding customer purchasing behavior, menu performance, and loyalty program activity.
 
 The project analyzes sales data along with menu and loyalty-member information to answer key business questions and generate actionable insights.
 
-## 🎯 Business Objective
+## Business Objective
 
 The objective of this project is to help Anita understand:
 
@@ -18,7 +18,7 @@ The objective of this project is to help Anita understand:
 - Spending before joining the loyalty program
 - Customer loyalty points
 
-## 🗂️ Dataset & Tables
+## Dataset & Tables
 
 The database contains three tables:
 
@@ -57,7 +57,7 @@ Contains information about customers who joined the loyalty program.
 - SQL
 - GitHub
 
-## 🧠 SQL Concepts Used
+## SQL Concepts Used
 
 This project provides hands-on practice with:
 
@@ -71,7 +71,7 @@ This project provides hands-on practice with:
 - Subqueries
 - Common Table Expressions (CTEs)
 
-## 📊 Business Questions
+##  Business Questions
 
 The analysis answers the following questions:
 
@@ -86,11 +86,11 @@ The analysis answers the following questions:
 9. How many loyalty points does each customer earn?
 10. How many points did Aarav and Meera have by the end of January?
 
-## 💡 Key Learning Outcomes
+##  Key Learning Outcomes
 
 Through this project, I practiced applying SQL to a real-world business scenario, including customer analysis, product performance analysis, loyalty-program analysis, joins, aggregations, window functions, and date-based business logic.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 anitas-veg-cafe-sql-analysis/
