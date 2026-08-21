@@ -51,7 +51,7 @@ Contains information about customers who joined the loyalty program.
 | customer_id | Customer identifier |
 | join_date | Loyalty program joining date |
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - PostgreSQL
 - SQL
